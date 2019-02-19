@@ -1,0 +1,3 @@
+# myblog
+
+./preview.sh
