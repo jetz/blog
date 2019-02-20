@@ -28,4 +28,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A simple, minimal blog for those who love text."
-    footer = "[Github](https://github.com/jetz) | [Twitter](https://twitter.com/jetzheung)"
+    footer = "[Email](mailto:jet.zheung@gmail.com) | [Github](https://github.com/jetz) | [Twitter](https://twitter.com/jetzheung)"
