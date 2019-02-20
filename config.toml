@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "zh-CN"
-title = "大毛的BLOG"
+title = "大毛的 BLOG"
 theme = "classic"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
